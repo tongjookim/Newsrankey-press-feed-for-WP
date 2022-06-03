@@ -9,7 +9,8 @@
 1. 관리자가 사용하는 테마의 functions.php 파일의 적당한 위치에 코드를 추가해 넣으세요.<br />
 2. feeds/ 폴더채로 테마 루트에 업로드하세요.<br>
 3. https://yoururl/feed/newsrankey 로 접속하여 제대로 feed가 작동되는지 확인하세요.<br />
-[끝].<br />
+[끝]<br />
+
 버전업 내용<br />
 1.0<br />
 초기 버전 배포
