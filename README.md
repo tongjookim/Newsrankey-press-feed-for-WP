@@ -3,9 +3,9 @@
 워드프레스 기본 RSS를 커스텀했습니다.
 
 ## 사용법
-1. 사용하고 있는 테마 경로(/wp-content/themes/사용중인 테마/functions.php)의 적당한 위치(예: 파일 끝)에 코드를 추가해 넣으세요.
-2. feed/ 폴더채로 기존 테마 경로에 업로드하세요.
-3. https://my-your-site.com/feed/newsrankey 로 접속하여 피드를 확인합니다. 끝.
+1. 사용하고 있는 테마 경로(```/wp-content/themes/사용중인 테마/functions.php```)의 적당한 위치(예: 파일 끝)에 코드를 추가해 넣으세요.
+2. ```feed/``` 폴더채로 기존 테마 경로에 업로드하세요.
+3. ```https://my-your-site.com/feed/newsrankey``` 로 접속하여 피드를 확인합니다. 끝.
 
 # 버전업 내용
 * 1.1 플러그인 릴리스 배포
